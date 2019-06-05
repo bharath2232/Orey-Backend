@@ -14,4 +14,4 @@ app.use(express.json());
 // Route Middewares
 app.use('/api/user', authRoute);
 
-app.listen(3000,() => console.log('Server up and running'))
+app.listen(3142,() => console.log('Server up and running'))
